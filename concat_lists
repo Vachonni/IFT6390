@@ -1,0 +1,9 @@
+lsum = l1 + l2     #concaténation des listes
+print lsum
+
+lsumfor = []
+
+for i in range(len(l1)):
+    lsumfor.append(l1[i]+l2[i])
+    
+print lsumfor
