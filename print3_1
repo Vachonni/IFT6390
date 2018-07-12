@@ -1,5 +1,7 @@
 import numpy as np
 
 l1 = np.ones((1,3))
-#print l1
+print l1
 print("yes!!")
+
+print("Ajouté via VisalStudio")
